@@ -13,6 +13,7 @@ This repo serves as a source of knowledge inside the NFT Alliance.
 - Status: Launched | Development | Other
 - My role: Founder / Artist / Dev / ?
 ```
+- The "Reviewooors" will review that your project has the required things to join: A website / Social media / Some images about your NFTs (in case they have images), a brief description of the project and team, make sure is an Arbitrum project, and check that is not a copy from other project.
 - Once your application has been approved, you must send a Pull Request to include your website into the NFTAlliance's website repo: https://github.com/nft-alliance/nft-alliance-web-page
 
 ## What to do after I get approved into the Alliance:
