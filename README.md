@@ -15,6 +15,35 @@ This repo serves as a source of knowledge inside the NFT Alliance.
 ```
 - Once your application has been approved, you must send a Pull Request to include your website into the NFTAlliance's website repo: https://github.com/nft-alliance/nft-alliance-web-page
 
+## What to do after I get approved into the Alliance:
+
+- Change your name in our Discord to showcase your project "myName | MyProject" (or similar)
+- Submit a pull request to our website with your project https://github.com/nft-alliance/nft-alliance-web-page
+- Check the #marketplace-listing channel to submit your project for listing into the marketplaces
+- Stick around to contribute in collaborations or other events that will happen
+- Make sure you tweet about the "initial tweet " about the alliance
+- Try to link to the alliance page somewhere in your site 
+
+Initial tweet
+```
+@arbitrum needs an NFT ecosystem.
+
+And we are coming 🐰🏰🏀🔥🤖🐻🐣🌽 
+
+Follow @arbnftalliance to support the future of NFTs on L2s! 🚀
+
+https://nftalliance.xyz
+```
+
+## What the Alliance can do for me?
+- Retweet your announcements
+- Announce your announcements in our Alliance Discord
+- Help you with development/design ideas
+- Help you with marketing ideas
+- Connect with other founders like you and share knowledge
+- Create partnerships and synergies
+
+
 ## Developer resources:
 
 - [Mint NFT Website Boilerplate](https://github.com/nft-alliance/nft-landing-boilerplate)
