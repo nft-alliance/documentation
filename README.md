@@ -20,6 +20,7 @@ This repo serves as a source of knowledge inside the NFT Alliance.
 
 - Change your name in our Discord to showcase your project "myName | MyProject" (or similar)
 - Submit a pull request to our website with your project https://github.com/nft-alliance/nft-alliance-web-page
+- Include in your website the link to the NFT alliance (example code https://codepen.io/Hayder/pen/YzxjGKP)
 - Check the #marketplace-listing channel to submit your project for listing into the marketplaces
 - Stick around to contribute in collaborations or other events that will happen
 - Make sure you tweet about the "initial tweet " about the alliance
